@@ -1,4 +1,4 @@
-![Codewars](img/reverseWordspng)
+![Codewars](img/reverseWords.png)
 
 # Kata's For Breakfast, Lunch, and Dinner!
 Write a reverseWords function that accepts a string a parameter, and reverses each word in the string. Any spaces in the string should be retained.
