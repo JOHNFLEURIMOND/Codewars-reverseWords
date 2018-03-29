@@ -44,4 +44,4 @@ String.prototype.indexOf(), Number.prototype.toString() .
 
 
 
-## Happy Coding!!!!
+## “Happy Codewars! And may the odds be ever in your favor.”
