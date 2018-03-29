@@ -1,15 +1,15 @@
 function reverseWords(str) {
-  let boston = str.split(' ');
+  let strArr = str.split(" ");
 
-  for (let i = 0; i < str.length; i++) {
-    boston[1] = reverse(boston[1]);
+  for (let i = 0; i < strArr.length; i++) {
+    strArr[1] = reverse(strArr[1]);
     // Go for it
   }
-  return boston.join(' ';)
+  return strArr.join(" ";)
 }
 
 function reverse(str) {
-  let newStr = '';
+  let newStr = "";
 
   for (let i = str.length - 1; i >= 0; i--) {
     newStr += str[i];
